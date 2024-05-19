@@ -10,6 +10,8 @@ urlpatterns = [
         path("update/<int:pk>", views.UpdateEmployee.as_view(), name="Employee-view-update"),
         path("delete/<int:pk>", views.DeleteEmployee.as_view(), name="Employee-view-Delete"),
 
+#this is a dummy comment
+
     
 
 
