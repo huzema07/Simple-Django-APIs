@@ -40,7 +40,8 @@ INSTALLED_APPS = [
     "bookAPI",
     "rest_framework",
     "pizzaAPI",
-    "employeeAPI"
+    "employeeAPI",
+    "project_taskAPI"
 ]
 
 MIDDLEWARE = [
